@@ -1,0 +1,35 @@
+.route-schedule {
+  margin-bottom: 20px;
+}
+
+.route-schedule h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  background-color: #fff;
+}
+
+.schedule-table th, .schedule-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.schedule-table th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+}
+
+.schedule-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.schedule-table td {
+  font-size: 0.9em;
+}
